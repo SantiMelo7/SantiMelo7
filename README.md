@@ -58,7 +58,6 @@ sh````
     </svg>
     santiagocano15cr7@gmail.com
 </a>
-
 ```
 
 <h1>Technologies</h1>
