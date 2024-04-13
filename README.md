@@ -25,19 +25,26 @@ Here are some ideas to get you started:
 -**📞 Puedes contactarme por estos medios**
 
 <div className="grid grid-cols-2 max-w-screen-2xl mx-auto ">
+
+<div className="flex flex-row">
 <img src="/public/facebook.webp" width="5%" height="5%"/>
 <a href="https://www.facebook.com/santiago.cano.1291?locale=es_LA" target="_blank">Facebook</a>
+</div>
 
-
+<div className="flex flex-row">
 <img src="/public/instragram.webp" width="5%" height="5%"/>
 <a href="https://www.instagram.com/santiago_melo15/" target="_blank">Instagram</a>
+</div>
 
-
+<div className="flex flex-row">
 <img src="/public/twitter.webp" width="5%" height="5%"/>
 <a href="https://twitter.com/SantiCM05" target="_blank">Twitter</a>
+</div>
 
+<div className="flex flex-row">
 <img src="/public/gmail.webp" width="5%" height="5%"/>
 <a href="https://www.google.com/intl/es-419/gmail/about/" target="_blank">Gmail</a>
+</div>
 
 </div>
 
