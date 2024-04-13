@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div className=" flex justify-center items-center max-w-screen-2xl mx-auto">
+<div className="flex justify-center items-center max-w-screen-2xl mx-auto">
 <img src="/public/collage.webp"/>
-<img src="/public/me.webp" className="rounded-md"  width="30%" height="30%"/>
+</div>
+
+<div className="flex justify-center items-center max-w-screen-2xl mx-auto">
 <h1 className="text-center">Hola soy Santiago Melo</h1>
 </div>
 
@@ -27,23 +29,28 @@ Here are some ideas to get you started:
 <div className="grid grid-cols-2 max-w-screen-2xl mx-auto ">
 
 <div className="flex flex-row">
+<img src="/public/linkedin.webp" width="5%" height="5%"/>
+<a href="https://www.linkedin.com/in/santiago-melo-7b25732a5/" className="my-auto" target="_blank">Linkedin</a>
+</div>
+
+<div className="flex flex-row">
 <img src="/public/facebook.webp" width="5%" height="5%"/>
-<a href="https://www.facebook.com/santiago.cano.1291?locale=es_LA" target="_blank">Facebook</a>
+<a href="https://www.facebook.com/santiago.cano.1291?locale=es_LA" className="my-auto" target="_blank">Facebook</a>
 </div>
 
 <div className="flex flex-row">
 <img src="/public/instragram.webp" width="5%" height="5%"/>
-<a href="https://www.instagram.com/santiago_melo15/" target="_blank">Instagram</a>
+<a href="https://www.instagram.com/santiago_melo15/" className="my-auto" target="_blank">Instagram</a>
 </div>
 
 <div className="flex flex-row">
 <img src="/public/twitter.webp" width="5%" height="5%"/>
-<a href="https://twitter.com/SantiCM05" target="_blank">Twitter</a>
+<a href="https://twitter.com/SantiCM05" className="my-auto" target="_blank">Twitter</a>
 </div>
 
 <div className="flex flex-row">
 <img src="/public/gmail.webp" width="5%" height="5%"/>
-<a href="https://www.google.com/intl/es-419/gmail/about/" target="_blank">Gmail</a>
+<a href="https://www.google.com/intl/es-419/gmail/about/" className="my-auto" target="_blank">Gmail</a>
 </div>
 
 </div>
