@@ -15,38 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img></img>
-
+<div className=" flex justify-center items-center mx-auto">
+<img src="/public/collage.webp"></img>
 <img></img>
 
 <h1>Hola, que tal, soy Santiago Melo</h1>
+</div>
 
-```sh
--**Puedes ver mi portafolio aqui ->** https://portafolio-dev-santi.vercel.app/
-```
-
---**Puedes contactarme por estos medios**
+-**💼 Puedes ver mi portafolio aqui ->** https://portafolio-dev-santi.vercel.app/
 
 
-```sh
+-**📞 Puedes contactarme por estos medios**
+
 <a href="https://www.facebook.com/santiago.cano.1291?locale=es_LA" target="_blank">
 <img src="/public/facebook.webp" width="10%" height="10%"></img>
 </a>
-````
 
-```sh
+
 <a href="https://www.instagram.com/santiago_melo15/" target="_blank">
 <img src="/public/instragram.webp" width="10%" height="10%"></img>
 </a>
-```
 
-```sh
 <a href="https://twitter.com/SantiCM05" target="_blank">
 <img src="/public/twitter.webp" width="10%" height="10%"></img>
 </a>
-```
 
-```sh
 <a href="https://www.google.com/intl/es-419/gmail/about/" target="_blank">
   <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -63,9 +56,8 @@ Here are some ideas to get you started:
         d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"
       />
     </svg>
-    santiagocano15cr7@gmail.com
 </a>
-```
+
 
 <h1>Technologies</h1>
 <div className="flex flex-row">
