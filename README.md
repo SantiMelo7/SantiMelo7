@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SantiCM/SantiCM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,9 +15,9 @@ Here are some ideas to get you started:
 
 <div className=" flex justify-center items-center mx-auto">
 <img src="/public/collage.webp"></img>
-<img></img>
+<img src="/public/me.webp" className="rounded-md"  width="50%" height="50%"></img>
 
-<h1>Hola, que tal, soy Santiago Melo</h1>
+<h1 className="text-center">Hola soy Santiago Melo</h1>
 </div>
 
 -**💼 Puedes ver mi portafolio aqui ->** https://portafolio-dev-santi.vercel.app/
@@ -27,36 +25,22 @@ Here are some ideas to get you started:
 
 -**📞 Puedes contactarme por estos medios**
 
-<a href="https://www.facebook.com/santiago.cano.1291?locale=es_LA" target="_blank">
-<img src="/public/facebook.webp" width="10%" height="10%"></img>
-</a>
+<div className="flex flex-row justify-start ">
+<img src="/public/facebook.webp" width="5%" height="5%"></img>
+<a href="https://www.facebook.com/santiago.cano.1291?locale=es_LA" target="_blank">Facebook</a>
 
 
-<a href="https://www.instagram.com/santiago_melo15/" target="_blank">
-<img src="/public/instragram.webp" width="10%" height="10%"></img>
-</a>
+<img src="/public/instragram.webp" width="5%" height="5%"></img>
+<a href="https://www.instagram.com/santiago_melo15/" target="_blank">Instagram</a>
 
-<a href="https://twitter.com/SantiCM05" target="_blank">
-<img src="/public/twitter.webp" width="10%" height="10%"></img>
-</a>
 
-<a href="https://www.google.com/intl/es-419/gmail/about/" target="_blank">
-  <svg
-      xmlns="http://www.w3.org/2000/svg"
-      fill="none"
-      viewBox="0 0 24 24"
-      strokeWidth="1.5"
-      stroke="currentColor"
-      width="35"
-      height="50"
-    >
-      <path
-        strokeLinecap="round"
-        strokeLinejoin="round"
-        d="M21.75 6.75v10.5a2.25 2.25 0 0 1-2.25 2.25h-15a2.25 2.25 0 0 1-2.25-2.25V6.75m19.5 0A2.25 2.25 0 0 0 19.5 4.5h-15a2.25 2.25 0 0 0-2.25 2.25m19.5 0v.243a2.25 2.25 0 0 1-1.07 1.916l-7.5 4.615a2.25 2.25 0 0 1-2.36 0L3.32 8.91a2.25 2.25 0 0 1-1.07-1.916V6.75"
-      />
-    </svg>
-</a>
+<img src="/public/twitter.webp" width="5%" height="5%"></img>
+<a href="https://twitter.com/SantiCM05" target="_blank">Twitter</a>
+
+<img src="/public/gmail.webp" width="5%" height="5%"></img>
+<a href="https://www.google.com/intl/es-419/gmail/about/" target="_blank">Gmail</a>
+
+</div>
 
 
 <h1>Technologies</h1>
