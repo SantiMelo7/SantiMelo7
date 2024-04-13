@@ -21,27 +21,34 @@ Here are some ideas to get you started:
 
 <h1>Hola, que tal, soy Santiago Melo</h1>
 
-sh````
+```sh
 -**Puedes ver mi portafolio aqui ->** https://portafolio-dev-santi.vercel.app/
+```
 
 --**Puedes contactarme por estos medios**
 
 
+```sh
 <a href="https://www.facebook.com/santiago.cano.1291?locale=es_LA" target="_blank">
 <img src="/public/facebook.webp" width="10%" height="10%"></img>
 </a>
+````
 
+```sh
 <a href="https://www.instagram.com/santiago_melo15/" target="_blank">
 <img src="/public/instragram.webp" width="10%" height="10%"></img>
 </a>
+```
 
-
+```sh
 <a href="https://twitter.com/SantiCM05" target="_blank">
 <img src="/public/twitter.webp" width="10%" height="10%"></img>
 </a>
+```
 
+```sh
 <a href="https://www.google.com/intl/es-419/gmail/about/" target="_blank">
-<svg
+  <svg
       xmlns="http://www.w3.org/2000/svg"
       fill="none"
       viewBox="0 0 24 24"
@@ -62,7 +69,7 @@ sh````
 
 <h1>Technologies</h1>
 <div className="flex flex-row">
-<img src="/public/Html.svg" width="5%" height="5%"></img>ç
+<img src="/public/Html.svg" width="5%" height="5%"></img>
 <img src="/public/Css.svg" width="5%" height="5%"></img>
 <img src="/public/Javascript.svg" width="5%" height="5%"></img>
 <img src="/public/React.svg" width="5%" height="5%"></img>
@@ -71,6 +78,9 @@ sh````
 <img src="/public/Git.svg" width="5%" height="5%"></img>
 <img src="/public/GitHub.svg" width="5%" height="5%"></img>
 <img src="/public/axios.ico" width="5%" height="5%"></img>
+</div>
+
+<div className="flex flex-row">
 <img src="/public/Mongo.svg" width="5%" height="5%"></img>
 <img src="/public/Postman.svg" width="5%" height="5%"></img>
 <img src="/public/jira.webp" width="5%" height="5%"></img>
