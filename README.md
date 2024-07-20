@@ -53,27 +53,4 @@ Here are some ideas to get you started:
 <a href="https://www.google.com/intl/es-419/gmail/about/" className="my-auto" target="_blank">Gmail</a>
 </div>
 
-</div>
-
-
-<h1>Technologies</h1>
-<div className="grid grid-cols-9 max-w-screen-2xl mx-auto">
-<img src="/public/Html.svg" width="5%" height="5%"/>
-<img src="/public/Css.svg" width="5%" height="5%"/>
-<img src="/public/Javascript.svg" width="5%" height="5%"/>
-<img src="/public/React.svg" width="5%" height="5%"/>
-<img src="/public/Next.svg" width="5%" height="5%"/>
-<img src="/public/Tailwind.png" width="5%" height="5%"/>
-<img src="/public/Git.svg" width="5%" height="5%"/>
-<img src="/public/GitHub.svg" width="5%" height="5%"/>
-<img src="/public/axios.ico" width="5%" height="5%"/>
-<img src="/public/Mongo.svg" width="5%" height="5%"/>
-<img src="/public/Postman.svg" width="5%" height="5%"/>
-<img src="/public/jira.webp" width="5%" height="5%"/>
-<img src="/public/vercel.webp" width="5%" height="5%"/>
-<img src="/public/netifly.webp" width="5%" height="5%"/>
-<img src="/public/react-router-dom.webp" width="5%" height="5%"/>
-<img src="/public/styles-components.png" width="5%" height="5%"/>
-<img src="/public/Vite.png" width="5%" height="5%"/>
-<img src="/public/MaterialUi.svg" width="5%" height="5%"/>
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SantiMelo7&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
