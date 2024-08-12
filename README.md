@@ -2,6 +2,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&duration=700&pause=1000&color=BDF74C&center=true&vCenter=true&multiline=true&width=435&lines=Hola%2C+Soy+Santiago+Melo" alt="Typing SVG" /></a>
 </h1>
 
+<img src="/user.png"/>
+
 ## ⚡ A little about me
 
 I am 19 years old, and throughout my adolescence, I often wondered what I would do when it came time to make decisions about my future.
@@ -26,12 +28,13 @@ I set a clear goal for myself: to become a web developer and help others achieve
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,next,tailwind" />
     <img style="margin-top: 15px;" src="https://skillicons.dev/icons?i=materialui,sass,styledcomponents,git,github,mongo,firebase" />
     <img style="margin-top: 15px;" src="https://skillicons.dev/icons?i=postman,vite,vercel,netlify,vscode,npm,figma" />
+    <img style="margin-top: 15px;" src="" />
 </div>
 
 <br/>
 <hr/>
 
-<div align=center>
+<div align="center">
   <img width=390 height=300 src="https://github-readme-stats.vercel.app/api?username=SantiMelo7&theme=gruvbox&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
   <img width=390 height=300 src="https://github-readme-streak-stats.herokuapp.com/?user=SantiMelo7&theme=gruvbox&hide_border=false" alt="readme stats" />
   <img width=350 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiMelo7&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="top langs" />
