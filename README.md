@@ -2,8 +2,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&duration=700&pause=1000&color=BDF74C&center=true&vCenter=true&multiline=true&width=435&lines=Hola%2C+Soy+Santiago+Melo" alt="Typing SVG" /></a>
 </h1>
 
-<img src="/user.png"/>
-
 ## ⚡ A little about me
 
 I am 19 years old, and throughout my adolescence, I often wondered what I would do when it came time to make decisions about my future.
