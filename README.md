@@ -25,8 +25,7 @@ I set a clear goal for myself: to become a web developer and help others achieve
 <div align="center" >
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,next,tailwind" />
     <img style="margin-top: 15px;" src="https://skillicons.dev/icons?i=materialui,sass,styledcomponents,git,github,mongo,firebase" />
-    <img style="margin-top: 15px;" src="https://skillicons.dev/icons?i=postman,vite,vercel,netlify,vscode,npm,figma" />
-    <img style="margin-top: 15px;" src="" />
+    <img style="margin-top: 15px;" src="https://skillicons.dev/icons?i=postman,vite,vercel,netlify,vscode,npm,figma"/>
 </div>
 
 <br/>
