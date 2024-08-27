@@ -26,18 +26,12 @@ I set a clear goal for myself: to become a web developer and help others achieve
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Skills
 
 <br/>
-<div align="center" >
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,next,tailwind,materialui" />
-    <img style="margin-top: 15px;" src="https://skillicons.dev/icons?i=,sass,styledcomponents,git,github,mongo,firebase,prisma,postman" />
-    <img style="margin-top: 15px;" src="https://skillicons.dev/icons?i=vite,vercel,netlify,vscode,npm,figma,stackoverflow"/>
-</div>
 
-<br/>
-<hr/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,typescript,next,tailwind,materialui,sass,styledcomponents,git,github,mongo,firebase,vite,vercel,netlify,vscode,npm,figma,stackoverflow&perline=8)](#)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/School.png" alt="Rocket" width="30" height="30" />   Education
 
-- <img src="https://cursos.clavijero.edu.mx" width="25"> **Consorcio Clavijero Institute University**:
+- <img src="/public/icc.jpeg" width="25"> **Consorcio Clavijero Institute University**:
   - **Studying a degree in systems engineering, I am currently in the 3rd semester**
     - January 2024 - (Present)
 
