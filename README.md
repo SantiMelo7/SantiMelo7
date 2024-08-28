@@ -2,8 +2,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&duration=700&pause=1000&color=BDF74C&center=true&vCenter=true&multiline=true&width=435&lines=Hola%2C+Soy+Santiago+Melo" alt="Typing SVG" /></a>
 </h1>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/SantiMelo7/SantiMelo7/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/SantiMelo7/SantiMelo7/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake gif](https://github.com/SantiMelo7/SantiMelo7/blob/output/github-contribution-grid-snake.svg)
 
 ## ⚡ A little about me
 
