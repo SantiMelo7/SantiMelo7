@@ -49,9 +49,7 @@ I set a clear goal for myself: to become a web developer and help others achieve
 
 [![Santi Melo current streak](https://streak-stats.demolab.com/?user=santimelo7&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjit-sahoo&theme=transparent" height="180em" alt="Commitments"/>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SantiMelo7&theme=default&utcOffset=8)
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SantiMelo7&&theme=transparent" height="180em" alt="Commitments"/>
 
 ⭐️ Credits:  [Tarikul-Islam-Anik](https://github.com/Tarikul-Islam-Anik), [JohnMwendwa](https://github.com/JohnMwendwa), [Samarjit Sahoo](https://github.com/samarjit-sahoo)
 
