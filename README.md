@@ -47,10 +47,15 @@ I set a clear goal for myself: to become a web developer and help others achieve
 
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=santimelo7&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=santimelo7&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Santi Melo current streak](https://streak-stats.demolab.com/?user=santimelo7&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-⭐️ Credits:  [Tarikul-Islam-Anik](https://github.com/Tarikul-Islam-Anik), [JohnMwendwa](https://github.com/JohnMwendwa)
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samarjit-sahoo&theme=transparent" height="180em" alt="Commitments"/>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SantiMelo7&theme=default&utcOffset=8)
+
+⭐️ Credits:  [Tarikul-Islam-Anik](https://github.com/Tarikul-Islam-Anik), [JohnMwendwa](https://github.com/JohnMwendwa), [Samarjit Sahoo](https://github.com/samarjit-sahoo)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=true"/>
 </p>
+ <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SantiMelo7-sahoo&theme=transparent"height="180em" alt="Commitments"/>
