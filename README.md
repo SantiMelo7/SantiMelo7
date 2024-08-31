@@ -53,6 +53,8 @@ I set a clear goal for myself: to become a web developer and help others achieve
 
 ⭐️ Credits:  [Tarikul-Islam-Anik](https://github.com/Tarikul-Islam-Anik), [JohnMwendwa](https://github.com/JohnMwendwa), [Samarjit Sahoo](https://github.com/samarjit-sahoo)
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SantiMelo7" alt="SantiMelo7" /></a> </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&section=footer&reversal=true"/>
 </p>
