@@ -35,7 +35,18 @@ I set a clear goal for myself: to become a web developer and help others achieve
 
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,typescript,next,tailwind,materialui,sass,styledcomponents,git,github,mongo,firebase,vite,vercel,netlify,vscode,npm,figma,stackoverflow&perline=8)](#)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,typescript,next,tailwind,materialui,sass,styledcomponents,git,github,mongo,firebase,vite,vercel,netlify,vscode,npm,figma,stackoverflow&perline=8"/>
+  <p align="center">
+  <img width="40" src="./public/ant-design.svg"/>
+  <img width="40" src="./public/react-query.svg"/>
+  <img width="40"  src="./public/firebaseHosting.webp"/>
+  <img width="40" src="./public/jira.webp"/>
+  <img width="40" src="./public/next-intl.webp"/>
+  <img width="40" src="./public/nextAuth.webp"/>
+  <img width="40" src="./public/react-router-dom.webp"/>
+  </p>
+</p>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
